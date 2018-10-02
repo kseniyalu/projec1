@@ -1,0 +1,8 @@
+.activities {
+	&__item {
+		align-items: center;
+	}
+	&__avatar-img {
+		width: 100%;
+	}
+}

@@ -1,0 +1,5 @@
+.album {
+	&__info {
+		text-align: center;
+	}
+}
